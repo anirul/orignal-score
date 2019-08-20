@@ -200,13 +200,13 @@ footer .btn-primary{
 }
 
 .carousel-caption h1{
-  font-size: 200%;
+  font-size: 150%;
   text-transform:uppercase;
   text-shadow: 1px 1px 15px #000;
 }
 
 .carousel-caption h3{
-  font-size: 100%;
+  font-size: 75%;
   text-transform:uppercase;
   text-shadow: 1px 1px 10px #000;
 }
